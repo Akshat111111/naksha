@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const errorLocation = () => {
-    setupMap([78.0322, 30.3165]); // Dehradun, India coordinates
+    setupMap([78.0322, 30.3165]); 
   };
 
 
